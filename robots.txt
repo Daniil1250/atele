@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nika-atelier.ru/sitemap.xml
